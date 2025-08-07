@@ -1,5 +1,1 @@
-String str = "Hello,World,Java";
-Strin[] parts = str.split(",");
-for (String part : parts) {
-     string.print((applash + part));
-}
+Develop java code to integrate Jira cloud get issue REST api

@@ -1,2 +1,1 @@
-# watson-demo
-watson-demo
+# Jira REST API Java Client

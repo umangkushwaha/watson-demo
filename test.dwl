@@ -1,3 +1,4 @@
-%dw 20.0
-output boolean
-----lower(vars.inputString) == ""
+%dw 2.0
+output application/json
+
+if (isEmpty(payload)) true else false

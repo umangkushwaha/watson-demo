@@ -1,3 +1,3 @@
-%Dw wp 2.0
-outport application/json
--  (function ((payload) -> payload) {\n        sizeOf( payload) == 0 }) )+
+%dw 20.0
+output boolean
+----lower(vars.inputString) == ""
